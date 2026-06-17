@@ -77,7 +77,6 @@
   ;; tags
   (setq org-tag-alist
         '(("coder" . ?c)
-          ("workr" . ?w)
           ("phone" . ?p)
           ("einks" . ?e)
          )
